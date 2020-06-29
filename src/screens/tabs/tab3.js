@@ -4,7 +4,7 @@ import { getArticles } from '../../service/news';
 import { Alert, ActivityIndicator } from 'react-native';
 import  DataItem  from '../../components/dataItem';
 
-export default class ListThumbnailExample extends Component {
+export default class tab3 extends Component {
 
     constructor(props) {
         super(props);
